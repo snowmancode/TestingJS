@@ -9,9 +9,10 @@ function myTestFunction() {
 
 myTestFunction();
 
-function myTestFunction1(number, number2 ) {
+function myTestFunction1(number, number2) {
     console.log("The Blacklist is coming on tonight.");
     console.log(number + number2);
 }
 
 myTestFunction1(1, 2);
+myTestFunction1(5, 5);
