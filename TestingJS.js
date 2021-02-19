@@ -16,3 +16,6 @@ function myTestFunction1(number, number2) {
 
 myTestFunction1(1, 2);
 myTestFunction1(5, 5);
+
+console.log("Completed my Github for the day!!!");
+console.time(myTestFunction1());
