@@ -22,3 +22,7 @@ console.time(myTestFunction1());
 
 let comment = "Last commit for Github for today"
 console.log(comment);
+
+let movie = "Greenland"
+console.log(movie);
+console.log("One of the best movies for 2020 is "+ movie)
