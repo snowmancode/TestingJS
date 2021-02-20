@@ -26,3 +26,8 @@ console.log(comment);
 let movie = "Greenland"
 console.log(movie);
 console.log("One of the best movies for 2020 is "+ movie)
+
+if (movie = "Greenland")  {
+    console.log("It was a great movie");
+}
+    
