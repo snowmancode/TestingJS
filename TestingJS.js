@@ -19,3 +19,6 @@ myTestFunction1(5, 5);
 
 console.log("Completed my Github for the day!!!");
 console.time(myTestFunction1());
+
+let comment = "Last commit for Github for today"
+console.log(comment);
