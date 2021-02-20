@@ -31,3 +31,6 @@ if (movie = "Greenland")  {
     console.log("It was a great movie");
 }
     
+if (movie = "Greenland") {
+    console.log("Warning, Warning!!");
+}
